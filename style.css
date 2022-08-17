@@ -1,0 +1,8 @@
+body{
+    height:650px;
+    width:100%;
+    background-color:blue;
+    background-image:linear-gradient(blue, purple);
+    text-align:center;
+    
+}
